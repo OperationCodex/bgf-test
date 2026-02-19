@@ -1,0 +1,5 @@
+
+Project Notes (Safe to keep)
+---------------------------
+- This file is harmless and can remain in history.
+- Use it to verify the repository still works after BFG cleanup.
